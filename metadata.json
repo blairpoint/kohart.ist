@@ -1,0 +1,6 @@
+{
+  "name": "iDotMatrix Animator",
+  "description": "Create and export 32x32 pixel animations for iDotMatrix displays.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
